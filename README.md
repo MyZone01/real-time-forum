@@ -1,4 +1,4 @@
-# FORUM APPLICATION
+# 💬 REAL TIME FORUM
 
 ## OVERVIEW
 
@@ -12,8 +12,8 @@ This is an upgraded forum application designed to provide a seamless user experi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/forum-application.git
-   cd forum-application
+   git clone https://github.com/MyZone01/real-time-forum.git
+   cd real-time-forum
    ```
 
 2. **Setting Up Environment:**
